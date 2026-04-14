@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://graph.org/file/90ef1bc444de679d65209-335d94a31975f4eda6.jpg" alt="Yuki Music Banner" width="100%">
+<img src="https://files.catbox.moe/ah5y0f.jpeg" alt="Yuki Music Banner" width="100%">
 
 # ─˹ 𝐘ᴜᴋɪ ꭙ ᴍᴜsɪᴄ ˼─
 
