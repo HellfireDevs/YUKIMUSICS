@@ -1,82 +1,105 @@
-<h2 align="center">
-    ─˹𝐘ᴜᴋɪ ꭙ ᴍᴜsɪᴄ˼─
-</h2>""Typing SVG" (https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝐘ᴜᴋɪ+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+YUKI+MUSIC)" (https://github.com)
+
+```markdown
+<div align="center">
+
+<img src="https://graph.org/file/90ef1bc444de679d65209-335d94a31975f4eda6.jpg" alt="Yuki Music Banner" width="100%">
+
+# ─˹ 𝐘ᴜᴋɪ ꭙ ᴍᴜsɪᴄ ˼─
+
+<a href="https://github.com/HellfireDevs/YUKIMUSICS"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Yuki+Music+Repo!;An+Advanced+Telegram+Music+Bot!;Fully+Optimized+And+Bug+Free!;Powered+By+HellfireDevs!&center=true&width=500&height=50&color=00FF00&vCenter=true&size=22"></a>
 
 <p align="center">
-  <img src="https://graph.org/file/90ef1bc444de679d65209-335d94a31975f4eda6.jpg">
-</p>"Typing SVG" (https://readme-typing-svg.herokuapp.com/?lines=𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗕𝗘𝗙𝗢𝗥𝗘+𝗗𝗘𝗣𝗟𝗢𝗬)
+  <img src="https://img.shields.io/badge/Python-3.9%2B-blue.svg?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pyrogram-Latest-yellow?logo=telegram&logoColor=white" alt="Pyrogram">
+  <img src="https://img.shields.io/badge/License-Proprietary-red?logo=github&logoColor=white" alt="License">
+</p>
 
-⚠️ 𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥
+**A Powerful, Fast, and Advanced Telegram Voice Chat Music Bot!**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-👉🏻 Hey guys, don't use your real ID session as assistant because the assistant will leave all the groups & channels. You might lose your groups ownership and adminship 🥺 so use any other ID session.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</div>
 
-🖇 Generating Pyrogram String Session
+---
 
-<p>
-<a href="https://t.me/SessionStringZbot"><img src="https://img.shields.io/badge/String%20Session%20Generator-blueviolet?style=for-the-badge&logo=appveyor" width="200"/></a>
-</p><h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3><h3 align="center">𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧</h3><p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com"><img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a>
-</p><h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ / ᴠᴘs 」─
-</h3>- Get your Necessary Variables
+### ⚠️ IMPORTANT DISCLAIMER
+> **Note:** Please DO NOT use your real personal Telegram account as the Assistant ID. The assistant account will automatically leave all groups and channels, which means you could lose ownership and admin rights of your personal groups. **Always use a spare/fake account for the Assistant!**
 
-- one time cmds
-- git clone https://github.com/SUDEEPBOTS/MYRDLMUSIC
+---
 
-- cd MYRDLMUSIC
-- chmod +x setup.sh
-- ./setup.sh
-- done your bot is live
+### 🖇 Generating Pyrogram String Session
+Need a string session for your assistant? Generate it securely here:
 
+<a href="https://t.me/SessionStringZbot"><img src="https://img.shields.io/badge/String%20Session%20Generator-blueviolet?style=for-the-badge&logo=appveyor" width="250"/></a>
 
+---
 
-- Upgrade and Update :
-  "sudo apt-get update && sudo apt-get upgrade -y"
+### 🚀 DEPLOYMENT METHODS
 
-- Install Ffmpeg :
-  "sudo apt-get install python3-pip ffmpeg -y"
+<details>
+<summary><b>1️⃣ DEPLOY ON HEROKU (Click to Expand)</b></summary>
+<br>
+  
+Fork this repository before deploying to keep your account safe!
+<p align="center">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/HellfireDevs/YUKIMUSICS"><img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="40"/></a>
+</p>
+</details>
 
-- Install required packages :
-  "sudo apt-get install python3-pip -y"
+<details open>
+<summary><b>2️⃣ DEPLOY ON LOCAL HOST / VPS (Recommended)</b></summary>
+<br>
 
-- Install pip :
-  "sudo pip3 install -U pip"
+Run these commands line-by-line on your Ubuntu VPS terminal:
 
-- Install Node js :
-  "curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm"
+**1. Upgrade and Update System:**
+```bash
+sudo apt-get update && sudo apt-get upgrade -y
 
-- Clone the repository :
-  "git clone https://github.com/yourrepo/Yuki_music && cd Yuki_music"
+```
+**2. Install FFMPEG & Required Packages:**
+```bash
+sudo apt-get install python3-pip ffmpeg -y
+sudo pip3 install -U pip
 
-- Install requirements :
-  "pip3 install -U -r requirements.txt"
+```
+**3. Install Node.js:**
+```bash
+curl -fsSL [https://deb.nodesource.com/setup_18.x](https://deb.nodesource.com/setup_18.x) | sudo -E bash - 
+sudo apt-get install nodejs -y && npm i -g npm
 
-- Fill variables in env :
-  "vi sample.env"
+```
+**4. Clone the Repository:**
+```bash
+git clone [https://github.com/HellfireDevs/YUKIMUSICS.git](https://github.com/HellfireDevs/YUKIMUSICS.git)
+cd YUKIMUSICS
 
-Press I to edit
-Press Ctrl+C then type :wq to save
+```
+**5. Install Python Requirements:**
+```bash
+pip3 install -U -r requirements.txt
 
-- Rename env :
-  "mv sample.env .env"
+```
+**6. Setup Environment Variables:**
+```bash
+cp sample.env .env
+nano .env
 
-- Install tmux :
-  "sudo apt install tmux && tmux"
+```
+*(Edit your variables inside the .env file. Press Ctrl+X, then Y, then Enter to save).*
+**7. Run the Bot via Tmux (24/7 Hosting):**
+```bash
+sudo apt install tmux -y
+tmux
+bash start
 
-- Run bot :
-  "bash start"
+```
+*(To exit tmux and keep the bot running in the background, press Ctrl+B then D).*
+</details>
+### 📞 SUPPORT & CONTACT
+For usage permissions, authorized forks, or inquiries, contact the developer:
+<a href="https://www.google.com/search?q=https://t.me/SUDEEPBOTS"><img title="Telegram" src="https://www.google.com/search?q=https://img.shields.io/badge/Developer-%2540SUDEEPBOTS-black.svg%3F%26style%3Dfor-the-badge%26logo%3Dtelegram%26logoColor%3D61DAFB"></a>
+**GitHub:** HellfireDevs | **Project:** Yuki Music
+<div align="center">
+<i>© 2026 Sudeep (HellfireDevs). All Rights Reserved.</i>
+</div>
+```
 
-- Exit tmux :
-  Press Ctrl+b then d
-
-━━━━━━━━━━━━━━━━━━━━
-
-Contact :
-
-<a href="https://t.me/Zcziiy"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-
-Owner Telegram : @Zcziiy
