@@ -1,0 +1,42 @@
+# Copyright (c) 2025 @SUDEEPBOTS <HellfireDevs>
+# Location: delhi,noida
+#
+# All rights reserved.
+#
+# This code is the intellectual SUDEEPBOTS.
+# You are not allowed to copy, modify, redistribute, or use this
+# code for commercial or personal projects without explicit permission.
+#
+# Allowed:
+# - Forking for personal learning
+# - Submitting improvements via pull requests
+#
+# Not Allowed:
+# - Claiming this code as your own
+# - Re-uploading without credit or permission
+# - Selling or using commercially
+#
+# Contact for permissions:
+# Email: sudeepgithub@gmail.com
+
+import YUKIIMUSIC.yuki_guard
+import random, os
+from pyrogram import Client, filters, enums 
+from YUKIIMUSIC import app
+from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
+
+
+@app.on_message(filters.command(["genpassword", 'genpw']))
+async def password(bot, update):
+    message = await update.reply_text(text="Pʀᴏᴄᴇꜱꜱɪɴɢ..")
+    password = "abcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()_+".lower()
+    if len(update.command) > 1:
+        qw = update.text.split(" ", 1)[1]
+    else:
+        ST = ["5", "7", "6", "9", "10", "12", "14", "8", "13"] 
+        qw = random.choice(ST)
+    limit = int(qw)
+    random_value = "".join(random.sample(password, limit))
+    txt = f"<b>Lɪᴍɪᴛ:</b> {str(limit)} \n<b>Pᴀꜱꜱᴡᴏʀᴅ: <code>{random_value}</code>"
+    btn = InlineKeyboardMarkup([[InlineKeyboardButton('𝗔𝗗𝗗 𝗠𝗘', url='https://t.me/Itz_SapnaMusicbot?startgroup=true')]])
+    await message.edit_text(text=txt, reply_markup=btn, parse_mode=enums.ParseMode.HTML)
